@@ -11,8 +11,6 @@ root.geometry("400x500")
 root.title("PASSWORD GENERATOR")
 root.resizable(False,False)
 root.configure(bg='skyblue')
-bottomFrame = Frame(root)
-bottomFrame.pack(side=BOTTOM)
 
 heading = Label(root,text='PASSWORD GENERATOR', font='arial 20 bold',fg='#CD0000',bd=5,bg='#B0E0E6',anchor="center").pack(pady=10)
 pass_label = Label(root,text='USER INPUT LENGTH', font='Helvetica 10',bg='violet',width=20,anchor="center").pack(pady=5)
