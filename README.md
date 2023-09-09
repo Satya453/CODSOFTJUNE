@@ -23,7 +23,7 @@ _File handling will be employed to read and write the to-do list to a local file
 The "A To-Do List Application" is an efficient and user-friendly python application that allows users to maintain and organize their to-do lists effortlessly. By providing a straightforward command-line interface, the project enables users  to focus on their tasks and stay on top of their daily responsibilities.
 
 
-**Project 02: Calculator**
+**Project 02: CALCULATOR**
 
 **Project Description:**
 The "Calculator" is a python-based application that provides a user-friendly graphical interface to perform basic arithmetic calculations. The calculator supports addition,subtraction,multiplication, and division ,making it suitable for everyday mathematical operations.
@@ -47,7 +47,7 @@ Upon launching the application, users will be presented with a simple GUI calcul
 The "Calculator" is a straightforward and user-friendly Python application that allows users to perform basic arithmetic calculations through an intuitive graphical interface. By providing real-time input display and result updates, the calculator facilitates smooth interactions and helps users carry out mathematical operations efficiently. With potential enhancements, the application can be expanded to accommodate more advanced calculations and personalized customization options, catering to a wider range of user preferences and mathematical needs.
 
 
-**Project 03:Password Generator**
+**Project 03:PASSWORD GENERATOR**
 
 **Project Description:**
 The "Password Generator" is a Python-based application that generates strong and secure random passwords. The password generator aims to assist users in creating robust and unique passwords that are difficult to crack and enhance overall online security. The project provides a command-line interface, allowing users to customize the password length and include various character types in the generated passwords.
