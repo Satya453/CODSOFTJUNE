@@ -64,10 +64,10 @@ The "Password Generator" is a Python-based application that generates strong and
 
 **User Interaction:**
 
-1. Enter the desired password length (e.g., 12 characters).
+1. Enter the desired password length .
 2. Choose which character types to include (e.g., uppercase letters, lowercase letters, digits, special symbols).
 3. The application will generate the password according to the user's preferences and display it on the screen.
 4. Optionally, the user can choose to copy the generated password to the clipboard for immediate use.
 
 **Conclusion:**
-The "Secure Password Generator" is a practical Python-based application designed to create strong and secure random passwords tailored to user preferences. By offering customizable password lengths and character type inclusion, the project empowers users to generate robust passwords that contribute to better online security practices. With potential enhancements, the application can further assist users in safeguarding their accounts and sensitive information from unauthorized access and potential cyber threats.
+The "Password Generator" is a practical Python-based application designed to create strong and secure random passwords tailored to user preferences. By offering customizable password lengths and character type inclusion, the project empowers users to generate robust passwords that contribute to better online security practices. With potential enhancements, the application can further assist users in safeguarding their accounts and sensitive information from unauthorized access and potential cyber threats.
