@@ -29,8 +29,8 @@ def Generator():
         pass_str.set(password)
 
 btn1 = Button(root,text= "GENERATE PASSWORD", command=Generator,font='bold 10',bg="violet",anchor="center").pack(pady=5)
-#Entry(root,width=22,textvariable=pass_str,font=('bold',12,'bold')).pack(pady=5)
-#pass_label1 =Label(root,text='DISPLAY',font='helvetica 10',bg='violet',width=20,height=2,anchor="center").pack(pady=7)
+Entry(root,width=22,textvariable=pass_str,font=('bold',12,'bold')).pack(pady=5)
+pass_label1 =Label(root,text='DISPLAY',font='helvetica 10',bg='violet',width=20,height=2,anchor="center").pack(pady=7)
 Entry = tk.Entry(root,textvariable=pass_str,justify='center',fg="#00008B",bg='yellow',font=("Helvetica",30,"bold"))
 Entry.place(x=50,y=270,width=300,height=70)
  
